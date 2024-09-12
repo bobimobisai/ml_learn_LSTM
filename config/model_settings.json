@@ -1,0 +1,4 @@
+{
+    "embedding_dim": 120,
+    "epochs": 200
+}
